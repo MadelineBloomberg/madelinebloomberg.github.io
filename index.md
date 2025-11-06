@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+permalink: /
 ---
 
 My name is Madeline Bloomberg. I am a PhD student at the University of Toronto in the Perception, Cognition, and Cognitive Neuroscience program working under the supervision of Dr. Michael Mack.
