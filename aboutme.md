@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Madeline Bloomberg. I am a PhD student at the University of Toronto in the Perception, Cognition, and Cognitive Neuroscience program working under the supervision of Dr. Michael Mack.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have 5 years of research experience, including experimental design, participant recruitment, data collection and analysis and project management.
 
-What else do you need?
+I'm always excitd to discuss my research interests and collaborate on new ideas. Feel free to reach out to me for a chat or to connect with me on LinkedIn. You can also checkout my Google Scholar page.
 
-### My story
+Check out my CV below!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
