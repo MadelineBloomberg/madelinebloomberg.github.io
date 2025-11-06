@@ -18,7 +18,6 @@ I have 5 years of research experience, including experimental design, participan
 - **Mechanisms that support memory creation and memory updating** <br>
     - What brain and cognitive processes allow us to form new memories while still adapting old ones? When we encounter conflicting information, how does the mind decide whether to integrate it or keep it separate?
 
-I'm always excitd to discuss my research interests and collaborate on new ideas. Feel free to reach out to me for a chat or to connect with me on LinkedIn. You can also checkout my Google Scholar page.
+I earned my master's degree at Western University with Dr. John Paul Minda where we looked at how ones focus of attention influences how people learn and represent information. When I'm not in the lab I enjoy cooking and experimenting with new recipes, trying to find the best coffee in Toronto (I'm always open to suggestions!), and spending time with my dogs Bowie and Calvin.
 
-Check out my CV below!
-
+I'm always excitd to discuss my research interests and collaborate on new ideas. Feel free to reach out to me for a chat!
