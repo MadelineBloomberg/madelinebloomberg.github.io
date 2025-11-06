@@ -54,7 +54,7 @@ social-network-links:
   linkedin: "www.linkedin.com/in/madeline-bloomberg"
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: "https://scholar.google.ca/citations?user=o5e_8CYAAAAJ&hl=en&oi=ao"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
